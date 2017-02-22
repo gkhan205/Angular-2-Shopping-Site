@@ -1,0 +1,11 @@
+.navbar{
+	background-color: #5cb85c;
+}
+
+.nav>li>a{
+	color: #fff;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+	background: #4cae4c;
+}

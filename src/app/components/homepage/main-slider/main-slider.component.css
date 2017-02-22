@@ -1,0 +1,15 @@
+.carousel-control.right, .carousel-control.left{
+	background: none !important;
+}
+
+.carousel-control .glyphicon-chevron-left, .carousel-control .glyphicon-chevron-right, .carousel-control .icon-next, .carousel-control .icon-prev{
+	color: #000;
+}
+
+.carousel-indicators li{
+	border-color: #5cb85c;
+}
+
+.carousel-indicators .active{
+	background-color: #5cb85c;
+}
